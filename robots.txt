@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://snowwhiteoakheart.github.io/otaku-shelf-legal/sitemap.xml
